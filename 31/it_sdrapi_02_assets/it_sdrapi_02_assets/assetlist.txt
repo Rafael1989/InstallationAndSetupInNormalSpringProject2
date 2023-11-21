@@ -1,0 +1,13 @@
+it_sdrapi_02_enus_02	REST API Using Java: Spring Boot Overview
+it_sdrapi_02_enus_03	REST API Using Java: Spring Boot Projects with STS and Maven
+it_sdrapi_02_enus_04	REST API Using Java: Spring Initializr
+it_sdrapi_02_enus_06	REST API Using Java: Spring Boot Project in STS 
+it_sdrapi_02_enus_07	REST API Using Java: Spring REST Template Overview
+it_sdrapi_02_enus_08	REST API Using Java: Spring Boot Services
+it_sdrapi_02_enus_09	REST API Using Java: Spring Boot RESTful Web Service
+it_sdrapi_02_enus_10	REST API Using Java: Spring Boot REST Controller with POST
+it_sdrapi_02_enus_11	REST API Using Java: Unit Testing in Spring Boot Using JUnit
+it_sdrapi_02_enus_12	REST API Using Java: Spring Boot Actuator
+it_sdrapi_02_enus_13	REST API Using Java: Spring Boot Auto-Configuration
+it_sdrapi_02_enus_14	REST API Using Java: Spring Boot Developer Tools
+it_sdrapi_02_enus_15	REST API Using Java: Using Spring Boot

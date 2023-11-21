@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+    <bean id="carBean" class="com.bean.reference.Car">
+        <property name="type" value="Sedan" />
+        <property name="model" value="BMW 740 2021" />
+        <property name="price" value="38000" />
+        <property name="combinedFuelEconomy" value="25" />
+        <property name="engine" ref="engineBean" />
+    </bean>
+    <bean id="engineBean" class="com.bean.reference.Engine">
+        <property name="horsepower" value="335" />
+        <property name="rpm" value="5500" />
+        <property name="engineLiters" value="3.0" />
+        <property name="cylinderConfig" value="I-6" />
+        <property name="recommendedFuel" value="premium unleaded" />
+    </bean>
+</beans>
